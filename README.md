@@ -1,4 +1,4 @@
-****Role-Based Access Control (RBAC) Model for E-commerce Portal****
+****Role-Based Access Control (RBAC) Model****
 
 **This repository contains a Role-Based Access Control (RBAC) system that manages user roles and permissions in an e-commerce platform. The model is designed to ensure that users have the appropriate level of access based on their role, providing secure and efficient management of the portal’s resources.**
 
